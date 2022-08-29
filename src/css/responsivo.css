@@ -1,0 +1,32 @@
+@media (max-width: 620px) {
+    .vilans-slider {
+        padding: 0 15px;
+        gap: 10px;
+    }
+    
+    .btn-seta {
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .lista-vilans {
+        height: 480px;
+    }
+
+    .cartao .imagem-vilas {
+        max-height: 230px;
+    }
+    
+    .cartao .informacoes .nome {
+        max-width: 50px;
+        font-size: 18px;
+    }
+
+    .cartao .informacoes .filme {
+        font-size: 14px;
+    }
+}
